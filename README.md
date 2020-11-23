@@ -7,7 +7,6 @@
 - SSDP (Service discovery) support in main.cpp
 - LED callback in WiFiManager loop in main.cpp
 - Implement other TODO's in main.cpp
-- Reset reason in AboutHelper.cpp
 
 # esp8266_milight_hub [![Build Status](https://travis-ci.org/sidoh/esp8266_milight_hub.svg?branch=master)](https://travis-ci.org/sidoh/esp8266_milight_hub) [![License][shield-license]][info-license]
 
